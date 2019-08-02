@@ -71,7 +71,6 @@ void Box::setXXX(double xx){
 //拷贝构造函数 
 
 
-
 int main(){
 Box box1;
 Box box2;

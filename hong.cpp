@@ -1,5 +1,6 @@
 //c++ 中的宏定义
 #include<iostream>
+#include<csignal>
 using namespace std;
 #define PI 3.1415  //宏定义常量
 #define MIN(a,b) (a<b ?a:b) //带有参数的宏
